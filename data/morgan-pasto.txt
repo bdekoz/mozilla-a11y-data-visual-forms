@@ -1,0 +1,1 @@
+data:text/html,<table><tr><th>Test</th><th>Data</th><th>Device</th></tr><tr><td>Pageload</td><td>33</td><td>Amazon Fire Tablet</td></tr><tr><td>Pageload</td><td>33</td><td>Samsung</td></tr><tr><td>Pageload</td><td>32</td><td>Amazon Fire Phone</td></tr></table>
