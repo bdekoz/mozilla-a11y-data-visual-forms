@@ -1,0 +1,332 @@
+{
+  "platform": "android-14-a55",
+  "date": "2025-01-27",
+  "test": "espn_the_comparison",
+  "url": "http://www.espn.com/nba/story/_/page/allstarweekend25788027/the-comparison-lebron-james-michael-jordan-their-own-words",
+  "firefox": {
+    "filmstrip_interval": 100,
+    "metrics": {
+      "SpeedIndexProgress": [
+	{
+	  "timestamp": "0.000000",
+	  "percent": "0"
+	},
+	{
+	  "timestamp": "515.000000",
+	  "percent": "20"
+	},
+	{
+	  "timestamp": "731.000000",
+	  "percent": "21"
+	},
+	{
+	  "timestamp": "823.000000",
+	  "percent": "21"
+	},
+	{
+	  "timestamp": "957.000000",
+	  "percent": "21"
+	},
+	{
+	  "timestamp": "981.000000",
+	  "percent": "21"
+	},
+	{
+	  "timestamp": "1001.000000",
+	  "percent": "21"
+	},
+	{
+	  "timestamp": "1015.000000",
+	  "percent": "21"
+	},
+	{
+	  "timestamp": "1032.000000",
+	  "percent": "21"
+	},
+	{
+	  "timestamp": "1057.000000",
+	  "percent": "21"
+	},
+	{
+	  "timestamp": "1082.000000",
+	  "percent": "21"
+	},
+	{
+	  "timestamp": "1190.000000",
+	  "percent": "21"
+	},
+	{
+	  "timestamp": "1289.000000",
+	  "percent": "55"
+	},
+	{
+	  "timestamp": "1298.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1308.000000",
+	  "percent": "55"
+	},
+	{
+	  "timestamp": "1327.000000",
+	  "percent": "55"
+	},
+	{
+	  "timestamp": "1343.000000",
+	  "percent": "55"
+	},
+	{
+	  "timestamp": "1357.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1373.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1388.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1402.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1413.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1424.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1436.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1449.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1458.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1465.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1473.000000",
+	  "percent": "55"
+	},
+	{
+	  "timestamp": "1484.000000",
+	  "percent": "55"
+	},
+	{
+	  "timestamp": "1493.000000",
+	  "percent": "55"
+	},
+	{
+	  "timestamp": "1503.000000",
+	  "percent": "55"
+	},
+	{
+	  "timestamp": "1509.000000",
+	  "percent": "55"
+	},
+	{
+	  "timestamp": "1518.000000",
+	  "percent": "56"
+	},
+	{
+	  "timestamp": "1532.000000",
+	  "percent": "56"
+	},
+	{
+	  "timestamp": "1536.000000",
+	  "percent": "57"
+	},
+	{
+	  "timestamp": "1543.000000",
+	  "percent": "58"
+	},
+	{
+	  "timestamp": "1551.000000",
+	  "percent": "60"
+	},
+	{
+	  "timestamp": "1560.000000",
+	  "percent": "60"
+	},
+	{
+	  "timestamp": "1568.000000",
+	  "percent": "62"
+	},
+	{
+	  "timestamp": "1576.000000",
+	  "percent": "62"
+	},
+	{
+	  "timestamp": "1582.000000",
+	  "percent": "64"
+	},
+	{
+	  "timestamp": "1591.000000",
+	  "percent": "64"
+	},
+	{
+	  "timestamp": "1599.000000",
+	  "percent": "65"
+	},
+	{
+	  "timestamp": "1608.000000",
+	  "percent": "68"
+	},
+	{
+	  "timestamp": "1616.000000",
+	  "percent": "70"
+	},
+	{
+	  "timestamp": "1624.000000",
+	  "percent": "99"
+	},
+	{
+	  "timestamp": "1756.000000",
+	  "percent": "100"
+	}
+      ]
+    }
+  },
+  "chrome": {
+    "filmstrip_interval": 100,
+    "metrics": {
+      "SpeedIndexProgress": [
+	{
+	  "timestamp": "0.000000",
+	  "percent": "0"
+	},
+	{
+	  "timestamp": "563.000000",
+	  "percent": "17"
+	},
+	{
+	  "timestamp": "786.000000",
+	  "percent": "17"
+	},
+	{
+	  "timestamp": "831.000000",
+	  "percent": "17"
+	},
+	{
+	  "timestamp": "879.000000",
+	  "percent": "17"
+	},
+	{
+	  "timestamp": "929.000000",
+	  "percent": "17"
+	},
+	{
+	  "timestamp": "996.000000",
+	  "percent": "17"
+	},
+	{
+	  "timestamp": "1048.000000",
+	  "percent": "17"
+	},
+	{
+	  "timestamp": "1096.000000",
+	  "percent": "17"
+	},
+	{
+	  "timestamp": "1295.000000",
+	  "percent": "42"
+	},
+	{
+	  "timestamp": "1329.000000",
+	  "percent": "42"
+	},
+	{
+	  "timestamp": "1346.000000",
+	  "percent": "42"
+	},
+	{
+	  "timestamp": "1362.000000",
+	  "percent": "42"
+	},
+	{
+	  "timestamp": "1379.000000",
+	  "percent": "42"
+	},
+	{
+	  "timestamp": "1396.000000",
+	  "percent": "42"
+	},
+	{
+	  "timestamp": "1413.000000",
+	  "percent": "42"
+	},
+	{
+	  "timestamp": "1429.000000",
+	  "percent": "43"
+	},
+	{
+	  "timestamp": "1446.000000",
+	  "percent": "43"
+	},
+	{
+	  "timestamp": "1462.000000",
+	  "percent": "43"
+	},
+	{
+	  "timestamp": "1479.000000",
+	  "percent": "43"
+	},
+	{
+	  "timestamp": "1496.000000",
+	  "percent": "43"
+	},
+	{
+	  "timestamp": "1513.000000",
+	  "percent": "44"
+	},
+	{
+	  "timestamp": "1530.000000",
+	  "percent": "45"
+	},
+	{
+	  "timestamp": "1546.000000",
+	  "percent": "46"
+	},
+	{
+	  "timestamp": "1562.000000",
+	  "percent": "48"
+	},
+	{
+	  "timestamp": "1579.000000",
+	  "percent": "51"
+	},
+	{
+	  "timestamp": "1596.000000",
+	  "percent": "54"
+	},
+	{
+	  "timestamp": "1613.000000",
+	  "percent": "57"
+	},
+	{
+	  "timestamp": "1630.000000",
+	  "percent": "61"
+	},
+	{
+	  "timestamp": "1646.000000",
+	  "percent": "99"
+	},
+	{
+	  "timestamp": "1663.000000",
+	  "percent": "100"
+	}
+      ]
+    }
+  }
+}
