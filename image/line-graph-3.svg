@@ -1,0 +1,1631 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   x="0px"
+   y="0px"
+   width="900.000000px"
+   height="600.000000px"
+   viewBox="0 0 900.000000 600.000000"
+   enable-background="new 0 0 900.000000 600.000000"
+   sodipodi:docname="line-graph-3.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+   id="namedview102"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.7955556"
+   inkscape:cx="450"
+   inkscape:cy="300.18564"
+   inkscape:window-width="2304"
+   inkscape:window-height="1455"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="ticks-chrome" />
+
+<title
+   id="title1">
+line-graph-2
+</title>
+<defs
+   id="defs4">
+    <filter
+   id="gblur10"
+   x="0"
+   y="0">
+      <feGaussianBlur
+   in="SourceGraphic"
+   stdDeviation="10"
+   id="feGaussianBlur1" />
+      <feOffset
+   dx="0"
+   dy="0"
+   id="feOffset1" />
+     </filter>
+    <filter
+   id="gblur20"
+   x="0"
+   y="0">
+      <feGaussianBlur
+   in="SourceGraphic"
+   stdDeviation="20"
+   id="feGaussianBlur2" />
+      <feOffset
+   dx="0"
+   dy="0"
+   id="feOffset2" />
+    </filter>
+    <filter
+   id="gblur10y"
+   x="0"
+   y="0">
+      <feGaussianBlur
+   in="SourceGraphic"
+   stdDeviation="0, 10"
+   id="feGaussianBlur3" />
+      <feOffset
+   dx="0"
+   dy="0"
+   id="feOffset3" />
+    </filter>
+    <filter
+   id="gblur20y"
+   x="0"
+   y="0">
+      <feGaussianBlur
+   in="SourceGraphic"
+   stdDeviation="0, 20"
+   id="feGaussianBlur4" />
+      <feOffset
+   dx="0"
+   dy="0"
+   id="feOffset4" />
+    </filter>
+  </defs>
+
+ <g
+   id="ticks-chrome">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<g
+   id="g37"
+   inkscape:label="x sec"
+   style="display:inline"><text
+     x="100"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text2">0ms</text><text
+     x="299.31662"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text3"><tspan
+       sodipodi:role="line"
+       id="tspan45">.5s</tspan></text><text
+     x="379.04327"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text26"><tspan
+       sodipodi:role="line"
+       id="tspan46">.7s</tspan></text><text
+     x="418.90662"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text27"><tspan
+       sodipodi:role="line"
+       id="tspan47">.8s</tspan></text><text
+     x="458.76993"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text28"><tspan
+       sodipodi:role="line"
+       id="tspan48">.9s</tspan></text><text
+     x="498.63327"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text29"><tspan
+       sodipodi:role="line"
+       id="tspan41">1s</tspan></text><text
+     x="538.49658"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text30"><tspan
+       sodipodi:role="line"
+       id="tspan40">1.1s</tspan></text><text
+     x="578.35992"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text31"><tspan
+       sodipodi:role="line"
+       id="tspan44">1.2s</tspan></text><text
+     x="618.22321"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text32"><tspan
+       sodipodi:role="line"
+       id="tspan42">1.3s</tspan></text><text
+     x="658.08655"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text33"><tspan
+       sodipodi:role="line"
+       id="tspan43">1.4s</tspan></text><text
+     x="697.94989"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text34"><tspan
+       sodipodi:role="line"
+       id="tspan39">1.5s</tspan></text><text
+     x="737.81323"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text35"><tspan
+       sodipodi:role="line"
+       id="tspan38">1.6s</tspan></text><text
+     x="777.67651"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     id="text36"><tspan
+       sodipodi:role="line"
+       id="tspan37">1.7s</tspan></text></g><g
+   id="g1"
+   inkscape:label="x ms"
+   style="display:none"
+   sodipodi:insensitive="true"><text
+     x="100"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text4">0ms</text><text
+     x="299.31662"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text5">500ms</text><text
+     x="379.04327"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text6">700ms</text><text
+     x="418.90662"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text7">800ms</text><text
+     x="458.76993"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text8">900ms</text><text
+     x="498.63327"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text9">1000ms</text><text
+     x="538.49658"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text10">1100ms</text><text
+     x="578.35992"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text11">1200ms</text><text
+     x="618.22321"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text12">1300ms</text><text
+     x="658.08655"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text13">1400ms</text><text
+     x="697.94989"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text14">1500ms</text><text
+     x="737.81323"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text15">1600ms</text><text
+     x="777.67651"
+     y="512"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text16">1700ms</text><text
+     x="88"
+     y="500"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text17">0%</text></g>
+
+
+
+
+
+
+
+<g
+   id="g2"
+   inkscape:label="y % right"
+   style="display:inline"
+   transform="translate(731.08808)"><text
+     x="88"
+     y="460"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text18">10%</text><text
+     x="88"
+     y="420"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text19">20%</text><text
+     x="88"
+     y="340"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text20">40%</text><text
+     x="88"
+     y="300"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text21">50%</text><text
+     x="88"
+     y="260"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text22">60%</text><text
+     x="88"
+     y="220"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text23">70%</text><text
+     x="88"
+     y="140"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text24">90%</text><text
+     x="88"
+     y="100"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text25">100%</text><text
+     x="88"
+     y="500"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="display:inline;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text37">0%</text></g>
+ <g
+   id="g56"
+   inkscape:label="y % left"
+   style="display:inline"
+   sodipodi:insensitive="true"><text
+     x="88"
+     y="460"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text48">10%</text><text
+     x="88"
+     y="420"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text49">20%</text><text
+     x="88"
+     y="340"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text50">40%</text><text
+     x="88"
+     y="300"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text51">50%</text><text
+     x="88"
+     y="260"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text52">60%</text><text
+     x="88"
+     y="220"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text53">70%</text><text
+     x="88"
+     y="140"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text54">90%</text><text
+     x="88"
+     y="100"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text55">100%</text><text
+     x="88"
+     y="500"
+     font-family="Apercu"
+     font-size="9.33333px"
+     text-anchor="middle"
+     text-align="center"
+     font-weight="400"
+     font-style="normal"
+     style="display:inline;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
+     id="text56">0%</text></g></g> <g
+   id="polyline-firefox"
+   sodipodi:insensitive="true"
+   style="display:inline">
+<polyline
+   points="100,500 305.296,420 391.401,416 428.075,416 481.492,416 491.059,416 499.032,416 504.613,416 511.39,416 521.355,416 531.321,416 574.374,416 613.838,280 617.426,284 621.412,280 628.986,280 635.364,280 640.945,284 647.323,284 653.303,284 658.884,284 663.269,284 667.654,284 672.437,284 677.62,284 681.207,284 683.998,284 687.187,280 691.572,280 695.159,280 699.146,280 701.538,280 705.125,276 710.706,276 712.301,272 715.091,268 718.28,260 721.868,260 725.057,252 728.246,252 730.638,244 734.226,244 737.415,240 741.002,228 744.191,220 747.38,104 800,100 "
+   stroke-dasharray="3"
+   stroke-linecap="square"
+   marker-mid="url(#r2wcadg)"
+   marker-end="url(#r2wcadg)"
+   style="fill:#949494;fill-opacity:0;stroke:#949494;stroke-width:1;stroke-opacity:1"
+   id="polyline25" />
+ </g> <g
+   id="values-firefox"
+   sodipodi:insensitive="true"
+   style="display:inline">
+ <rect
+   x="97"
+   y="497"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect25">
+<title
+   id="title25">
+firefox
+0%, 0ms
+</title>
+ </rect>
+<rect
+   x="302.29614"
+   y="417"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect26">
+<title
+   id="title26">
+firefox
+20%, 515ms
+</title>
+ </rect>
+<rect
+   x="388.40091"
+   y="413"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect27">
+<title
+   id="title27">
+firefox
+21%, 731ms
+</title>
+ </rect>
+<rect
+   x="425.07516"
+   y="413"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect28">
+<title
+   id="title28">
+firefox
+21%, 823ms
+</title>
+ </rect>
+<rect
+   x="478.49203"
+   y="413"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect29">
+<title
+   id="title29">
+firefox
+21%, 957ms
+</title>
+ </rect>
+<rect
+   x="488.05923"
+   y="413"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect30">
+<title
+   id="title30">
+firefox
+21%, 981ms
+</title>
+ </rect>
+<rect
+   x="496.03189"
+   y="413"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect31">
+<title
+   id="title31">
+firefox
+21%, 1001ms
+</title>
+ </rect>
+<rect
+   x="501.61276"
+   y="413"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect32">
+<title
+   id="title32">
+firefox
+21%, 1015ms
+</title>
+ </rect>
+<rect
+   x="508.38953"
+   y="413"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect33">
+<title
+   id="title33">
+firefox
+21%, 1032ms
+</title>
+ </rect>
+<rect
+   x="518.35535"
+   y="413"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect34">
+<title
+   id="title34">
+firefox
+21%, 1057ms
+</title>
+ </rect>
+<rect
+   x="528.32117"
+   y="413"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect35">
+<title
+   id="title35">
+firefox
+21%, 1082ms
+</title>
+ </rect>
+<rect
+   x="571.3736"
+   y="413"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect36">
+<title
+   id="title36">
+firefox
+21%, 1190ms
+</title>
+ </rect>
+<rect
+   x="610.83826"
+   y="277"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect37">
+<title
+   id="title37">
+firefox
+55%, 1289ms
+</title>
+ </rect>
+<rect
+   x="614.42596"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect38">
+<title
+   id="title38">
+firefox
+54%, 1298ms
+</title>
+ </rect>
+<rect
+   x="618.41229"
+   y="277"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect39">
+<title
+   id="title39">
+firefox
+55%, 1308ms
+</title>
+ </rect>
+<rect
+   x="625.98633"
+   y="277"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect40">
+<title
+   id="title40">
+firefox
+55%, 1327ms
+</title>
+ </rect>
+<rect
+   x="632.36444"
+   y="277"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect41">
+<title
+   id="title41">
+firefox
+55%, 1343ms
+</title>
+ </rect>
+<rect
+   x="637.94531"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect42">
+<title
+   id="title42">
+firefox
+54%, 1357ms
+</title>
+ </rect>
+<rect
+   x="644.32349"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect43">
+<title
+   id="title43">
+firefox
+54%, 1373ms
+</title>
+ </rect>
+<rect
+   x="650.30298"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect44">
+<title
+   id="title44">
+firefox
+54%, 1388ms
+</title>
+ </rect>
+<rect
+   x="655.88385"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect45">
+<title
+   id="title45">
+firefox
+54%, 1402ms
+</title>
+ </rect>
+<rect
+   x="660.2688"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect46">
+<title
+   id="title46">
+firefox
+54%, 1413ms
+</title>
+ </rect>
+<rect
+   x="664.65375"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect47">
+<title
+   id="title47">
+firefox
+54%, 1424ms
+</title>
+ </rect>
+<rect
+   x="669.43738"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect48">
+<title
+   id="title48">
+firefox
+54%, 1436ms
+</title>
+ </rect>
+<rect
+   x="674.61957"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect49">
+<title
+   id="title49">
+firefox
+54%, 1449ms
+</title>
+ </rect>
+<rect
+   x="678.20728"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect50">
+<title
+   id="title50">
+firefox
+54%, 1458ms
+</title>
+ </rect>
+<rect
+   x="680.99774"
+   y="281"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect51">
+<title
+   id="title51">
+firefox
+54%, 1465ms
+</title>
+ </rect>
+<rect
+   x="684.18677"
+   y="277"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect52">
+<title
+   id="title52">
+firefox
+55%, 1473ms
+</title>
+ </rect>
+<rect
+   x="688.57178"
+   y="277"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect53">
+<title
+   id="title53">
+firefox
+55%, 1484ms
+</title>
+ </rect>
+<rect
+   x="692.15942"
+   y="277"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect54">
+<title
+   id="title54">
+firefox
+55%, 1493ms
+</title>
+ </rect>
+<rect
+   x="696.14581"
+   y="277"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect55">
+<title
+   id="title55">
+firefox
+55%, 1503ms
+</title>
+ </rect>
+<rect
+   x="698.5376"
+   y="277"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect56">
+<title
+   id="title56">
+firefox
+55%, 1509ms
+</title>
+ </rect>
+<rect
+   x="702.12531"
+   y="273"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect57">
+<title
+   id="title57">
+firefox
+56%, 1518ms
+</title>
+ </rect>
+<rect
+   x="707.70618"
+   y="273"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect58">
+<title
+   id="title58">
+firefox
+56%, 1532ms
+</title>
+ </rect>
+<rect
+   x="709.30066"
+   y="269"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect59">
+<title
+   id="title59">
+firefox
+57%, 1536ms
+</title>
+ </rect>
+<rect
+   x="712.09113"
+   y="265"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect60">
+<title
+   id="title60">
+firefox
+58%, 1543ms
+</title>
+ </rect>
+<rect
+   x="715.28021"
+   y="257"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect61">
+<title
+   id="title61">
+firefox
+60%, 1551ms
+</title>
+ </rect>
+<rect
+   x="718.86786"
+   y="257"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect62">
+<title
+   id="title62">
+firefox
+60%, 1560ms
+</title>
+ </rect>
+<rect
+   x="722.05695"
+   y="249"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect63">
+<title
+   id="title63">
+firefox
+62%, 1568ms
+</title>
+ </rect>
+<rect
+   x="725.24603"
+   y="249"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect64">
+<title
+   id="title64">
+firefox
+62%, 1576ms
+</title>
+ </rect>
+<rect
+   x="727.63782"
+   y="241"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect65">
+<title
+   id="title65">
+firefox
+64%, 1582ms
+</title>
+ </rect>
+<rect
+   x="731.22552"
+   y="241"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect66">
+<title
+   id="title66">
+firefox
+64%, 1591ms
+</title>
+ </rect>
+<rect
+   x="734.41455"
+   y="237"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect67">
+<title
+   id="title67">
+firefox
+65%, 1599ms
+</title>
+ </rect>
+<rect
+   x="738.00226"
+   y="225"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect68">
+<title
+   id="title68">
+firefox
+68%, 1608ms
+</title>
+ </rect>
+<rect
+   x="741.19135"
+   y="217"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect69">
+<title
+   id="title69">
+firefox
+70%, 1616ms
+</title>
+ </rect>
+<rect
+   x="744.38043"
+   y="101"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect70">
+<title
+   id="title70">
+firefox
+99%, 1624ms
+</title>
+ </rect>
+<rect
+   x="797"
+   y="97"
+   width="6"
+   height="6"
+   style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:1;stroke-opacity:0"
+   id="rect71">
+<title
+   id="title71">
+firefox
+100%, 1756ms
+</title>
+ </rect>
+ </g> <g
+   id="polyline-chrome"
+   sodipodi:insensitive="true"
+   style="display:inline">
+<polyline
+   points="100,500 324.431,432 413.326,432 431.264,432 450.399,432 470.33,432 497.039,432 517.768,432 536.902,432 616.23,332 629.784,332 636.56,332 642.938,332 649.715,332 656.492,332 663.269,332 669.647,328 676.424,328 682.802,328 689.579,328 696.355,328 703.132,324 709.909,320 716.287,316 722.665,308 729.442,296 736.219,284 742.995,272 749.772,256 756.15,104 762.927,100 "
+   stroke-dasharray="1, 2"
+   stroke-linecap="round"
+   marker-mid="url(#c2wcaglg)"
+   marker-end="url(#c2wcaglg)"
+   style="fill:#2e2e2e;fill-opacity:0;stroke:#2e2e2e;stroke-width:1;stroke-opacity:1"
+   id="polyline71" />
+ </g> <g
+   id="values-chrome"
+   sodipodi:insensitive="true"
+   style="display:inline">
+ <circle
+   cx="100"
+   cy="500"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle72">
+<title
+   id="title72">
+chrome
+0%, 0ms
+</title>
+ </circle>
+<circle
+   cx="324.43051"
+   cy="432"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle73">
+<title
+   id="title73">
+chrome
+17%, 563ms
+</title>
+ </circle>
+<circle
+   cx="413.32574"
+   cy="432"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle74">
+<title
+   id="title74">
+chrome
+17%, 786ms
+</title>
+ </circle>
+<circle
+   cx="431.26425"
+   cy="432"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle75">
+<title
+   id="title75">
+chrome
+17%, 831ms
+</title>
+ </circle>
+<circle
+   cx="450.39862"
+   cy="432"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle76">
+<title
+   id="title76">
+chrome
+17%, 879ms
+</title>
+ </circle>
+<circle
+   cx="470.33029"
+   cy="432"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle77">
+<title
+   id="title77">
+chrome
+17%, 929ms
+</title>
+ </circle>
+<circle
+   cx="497.03873"
+   cy="432"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle78">
+<title
+   id="title78">
+chrome
+17%, 996ms
+</title>
+ </circle>
+<circle
+   cx="517.76764"
+   cy="432"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle79">
+<title
+   id="title79">
+chrome
+17%, 1048ms
+</title>
+ </circle>
+<circle
+   cx="536.90204"
+   cy="432"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle80">
+<title
+   id="title80">
+chrome
+17%, 1096ms
+</title>
+ </circle>
+<circle
+   cx="616.23004"
+   cy="332"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle81">
+<title
+   id="title81">
+chrome
+42%, 1295ms
+</title>
+ </circle>
+<circle
+   cx="629.78357"
+   cy="332"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle82">
+<title
+   id="title82">
+chrome
+42%, 1329ms
+</title>
+ </circle>
+<circle
+   cx="636.56036"
+   cy="332"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle83">
+<title
+   id="title83">
+chrome
+42%, 1346ms
+</title>
+ </circle>
+<circle
+   cx="642.93848"
+   cy="332"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle84">
+<title
+   id="title84">
+chrome
+42%, 1362ms
+</title>
+ </circle>
+<circle
+   cx="649.71527"
+   cy="332"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle85">
+<title
+   id="title85">
+chrome
+42%, 1379ms
+</title>
+ </circle>
+<circle
+   cx="656.492"
+   cy="332"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle86">
+<title
+   id="title86">
+chrome
+42%, 1396ms
+</title>
+ </circle>
+<circle
+   cx="663.2688"
+   cy="332"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle87">
+<title
+   id="title87">
+chrome
+42%, 1413ms
+</title>
+ </circle>
+<circle
+   cx="669.64691"
+   cy="328"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle88">
+<title
+   id="title88">
+chrome
+43%, 1429ms
+</title>
+ </circle>
+<circle
+   cx="676.42371"
+   cy="328"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle89">
+<title
+   id="title89">
+chrome
+43%, 1446ms
+</title>
+ </circle>
+<circle
+   cx="682.80182"
+   cy="328"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle90">
+<title
+   id="title90">
+chrome
+43%, 1462ms
+</title>
+ </circle>
+<circle
+   cx="689.57861"
+   cy="328"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle91">
+<title
+   id="title91">
+chrome
+43%, 1479ms
+</title>
+ </circle>
+<circle
+   cx="696.35535"
+   cy="328"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle92">
+<title
+   id="title92">
+chrome
+43%, 1496ms
+</title>
+ </circle>
+<circle
+   cx="703.13214"
+   cy="324"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle93">
+<title
+   id="title93">
+chrome
+44%, 1513ms
+</title>
+ </circle>
+<circle
+   cx="709.90887"
+   cy="320"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle94">
+<title
+   id="title94">
+chrome
+45%, 1530ms
+</title>
+ </circle>
+<circle
+   cx="716.28699"
+   cy="316"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle95">
+<title
+   id="title95">
+chrome
+46%, 1546ms
+</title>
+ </circle>
+<circle
+   cx="722.66516"
+   cy="308"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle96">
+<title
+   id="title96">
+chrome
+48%, 1562ms
+</title>
+ </circle>
+<circle
+   cx="729.44189"
+   cy="296"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle97">
+<title
+   id="title97">
+chrome
+51%, 1579ms
+</title>
+ </circle>
+<circle
+   cx="736.21869"
+   cy="284"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle98">
+<title
+   id="title98">
+chrome
+54%, 1596ms
+</title>
+ </circle>
+<circle
+   cx="742.99542"
+   cy="272"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle99">
+<title
+   id="title99">
+chrome
+57%, 1613ms
+</title>
+ </circle>
+<circle
+   cx="749.77222"
+   cy="256"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle100">
+<title
+   id="title100">
+chrome
+61%, 1630ms
+</title>
+ </circle>
+<circle
+   cx="756.15033"
+   cy="104"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle101">
+<title
+   id="title101">
+chrome
+99%, 1646ms
+</title>
+ </circle>
+<circle
+   cx="762.92712"
+   cy="100"
+   r="3"
+   style="fill:#2e2e2e;fill-opacity:1;stroke:#2e2e2e;stroke-width:1;stroke-opacity:0"
+   id="circle102">
+<title
+   id="title102">
+chrome
+100%, 1663ms
+</title>
+ </circle>
+ </g><metadata
+   id="metadata102"><rdf:RDF><cc:Work
+       rdf:about=""><dc:title>
+line-graph-2
+</dc:title></cc:Work></rdf:RDF></metadata></svg>
