@@ -34,7 +34,7 @@
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="ticks-chrome" />
+   inkscape:current-layer="layer1" />
 
 <title
    id="title1">
@@ -97,7 +97,18 @@ line-graph-2
   </defs>
 
  <g
-   id="ticks-chrome">
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="background"
+   style="display:inline"><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.33333;stroke-dasharray:0.533333, 0.799998;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="rect1"
+     width="896.67981"
+     height="596.67987"
+     x="1.6600783"
+     y="1.6600783" /></g><g
+   id="ticks-chrome"
+   sodipodi:insensitive="true">
 
 
 
@@ -133,10 +144,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text3"><tspan
        sodipodi:role="line"
-       id="tspan45">.5s</tspan></text><text
+       id="tspan45"
+       x="299.31662"
+       y="512">.5s</tspan></text><text
      x="379.04327"
      y="512"
      font-family="Apercu"
@@ -145,10 +158,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text26"><tspan
        sodipodi:role="line"
-       id="tspan46">.7s</tspan></text><text
+       id="tspan46"
+       x="379.04327"
+       y="512">.7s</tspan></text><text
      x="418.90662"
      y="512"
      font-family="Apercu"
@@ -157,10 +172,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text27"><tspan
        sodipodi:role="line"
-       id="tspan47">.8s</tspan></text><text
+       id="tspan47"
+       x="418.90662"
+       y="512">.8s</tspan></text><text
      x="458.76993"
      y="512"
      font-family="Apercu"
@@ -169,10 +186,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text28"><tspan
        sodipodi:role="line"
-       id="tspan48">.9s</tspan></text><text
+       id="tspan48"
+       x="458.76993"
+       y="512">.9s</tspan></text><text
      x="498.63327"
      y="512"
      font-family="Apercu"
@@ -181,10 +200,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text29"><tspan
        sodipodi:role="line"
-       id="tspan41">1s</tspan></text><text
+       id="tspan41"
+       x="498.63327"
+       y="512">1s</tspan></text><text
      x="538.49658"
      y="512"
      font-family="Apercu"
@@ -193,10 +214,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text30"><tspan
        sodipodi:role="line"
-       id="tspan40">1.1s</tspan></text><text
+       id="tspan40"
+       x="538.49658"
+       y="512">1.1s</tspan></text><text
      x="578.35992"
      y="512"
      font-family="Apercu"
@@ -205,10 +228,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text31"><tspan
        sodipodi:role="line"
-       id="tspan44">1.2s</tspan></text><text
+       id="tspan44"
+       x="578.35992"
+       y="512">1.2s</tspan></text><text
      x="618.22321"
      y="512"
      font-family="Apercu"
@@ -217,10 +242,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text32"><tspan
        sodipodi:role="line"
-       id="tspan42">1.3s</tspan></text><text
+       id="tspan42"
+       x="618.22321"
+       y="512">1.3s</tspan></text><text
      x="658.08655"
      y="512"
      font-family="Apercu"
@@ -229,10 +256,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text33"><tspan
        sodipodi:role="line"
-       id="tspan43">1.4s</tspan></text><text
+       id="tspan43"
+       x="658.08655"
+       y="512">1.4s</tspan></text><text
      x="697.94989"
      y="512"
      font-family="Apercu"
@@ -241,10 +270,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text34"><tspan
        sodipodi:role="line"
-       id="tspan39">1.5s</tspan></text><text
+       id="tspan39"
+       x="697.94989"
+       y="512">1.5s</tspan></text><text
      x="737.81323"
      y="512"
      font-family="Apercu"
@@ -253,10 +284,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text35"><tspan
        sodipodi:role="line"
-       id="tspan38">1.6s</tspan></text><text
+       id="tspan38"
+       x="737.81323"
+       y="512">1.6s</tspan></text><text
      x="777.67651"
      y="512"
      font-family="Apercu"
@@ -265,10 +298,12 @@ line-graph-2
      text-align="center"
      font-weight="400"
      font-style="normal"
-     style="fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0;-inkscape-font-specification:'Apercu, Normal';font-family:Apercu;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.33333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333px;font-family:Apercu;-inkscape-font-specification:'Apercu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#949494;fill-opacity:1;stroke:#949494;stroke-width:0.5;stroke-opacity:0"
      id="text36"><tspan
        sodipodi:role="line"
-       id="tspan37">1.7s</tspan></text></g><g
+       id="tspan37"
+       x="777.67651"
+       y="512">1.7s</tspan></text></g><g
    id="g1"
    inkscape:label="x ms"
    style="display:none"
