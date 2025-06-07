@@ -1,7 +1,7 @@
 
 ## Results
 
-        <table border="1" class="dataframe min-w-full divide-y divide-gray-200 shadow-md rounded-lg overflow-hidden">
+<table border="1">
   <thead>
     <tr style="text-align: right;">
       <th>name</th>
